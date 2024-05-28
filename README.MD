@@ -4,7 +4,7 @@ Company API es una aplicación CRUD básica desarrollada con Node.js, Express y 
 
 ## Requisitos
 
-- Node.js v14 o superior
+- Node.js v20 o superior
 - MySQL
 - npm
 
