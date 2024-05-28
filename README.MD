@@ -1,11 +1,10 @@
-```markdown
 # Company API
 
 Company API es una aplicación CRUD básica desarrollada con Node.js, Express y MySQL para manejar empleados. La API permite buscar, agregar, actualizar y eliminar empleados. Cada empleado tiene un ID incrementado automáticamente, nombre y salario.
 
 ## Requisitos
 
-- Node.js v14 o superior
+- Node.js v20 o superior
 - MySQL
 - npm
 
